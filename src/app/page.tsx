@@ -102,17 +102,22 @@ Loading State
           <Badge >
        {location}
           </Badge>
+          <Badge>
+          08128795195
+          </Badge>
            <Badge className="text-3xl font-semibold">
            ₦{price}
            
            </Badge>
+           
           </div>
           
          </CardContent>
          <CardFooter>
-         <p>
+         <div>
+          
             Additional Information: {additionalInfo}
-           </p>
+           </div>
        
          </CardFooter>
        </Card> </CarouselItem>

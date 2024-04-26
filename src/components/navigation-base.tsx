@@ -1,11 +1,6 @@
 
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import {
-  Avatar,
-  AvatarFallback,
-  AvatarImage,
-} from "@/components/ui/avatar"
 import { useSelector } from "react-redux";
 import  AvatarMenu  from "./avatar-menu";
 
